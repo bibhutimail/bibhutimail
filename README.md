@@ -46,3 +46,11 @@ This is the place where I opensource stuff and (sometimes) break spelling 🤣
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibhuti-narayan-40270516/)   
 [![Blog](https://img.shields.io/badge/Blog-FeenixDV-red?style=for-the-badge)](https://ai.feenixdv.com)  
+
+## 📚 Latest Blog Posts  
+
+- [AWS SOC 2 Readiness Checker](https://ai.feenixdv.com/index.php/297/43/)  
+- [Building a Java Application Monitoring Dashboard](https://ai.feenixdv.com/index.php/289/19/)  
+- [AWS Transfer Family Setup Guide](https://ai.feenixdv.com/index.php/287/39/)  
+- [Git Change Visualizer](https://ai.feenixdv.com/index.php/277/15/)  
+- [Setting Up AWS API Gateway with EC2 Backend](https://ai.feenixdv.com/index.php/272/32/)  
