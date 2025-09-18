@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Bibhuti Narayan 👋  
 
-<!--
-**bibhutimail/bibhutimail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the place where I opensource stuff and (sometimes) break spelling 🤣  
 
-Here are some ideas to get you started:
+🐳 Docker Captain & Traefik Ambassador 🏆  
+━━━━━━━━━━━━━━━━━━━━━━  
+📍 India | 🔭 Open Source DevOps Automation Tools  
+━━━━━━━━━━━━━━━━━━━━━━  
+🌱 Currently into Marketing Automation 📖  
+━━━━━━━━━━━━━━━━━━━━━━  
+💬 Topics: DevOps • Cloud • Containers • Kubernetes • Automation ☁️  
+━━━━━━━━━━━━━━━━━━━━━━  
+📫 bibhutimail@gmail.com | [ai.feenixdv.com](https://ai.feenixdv.com)  
+━━━━━━━━━━━━━━━━━━━━━━  
+⚡ I ❤️ badminton & 🚴 cycling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)  
+
+---
+
+## 📈 GitHub Stats  
+![Bibhuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibhutimail&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibhutimail&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=bibhutimail&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-TWITTER)  
+[![Blog](https://img.shields.io/badge/Blog-FeenixDV-red?style=for-the-badge)](https://feenixdv.com)  
