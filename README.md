@@ -36,10 +36,10 @@ This is the place where I opensource stuff and (sometimes) break spelling 🤣
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
 ![Bibhuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibhutimail&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibhutimail&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=bibhutimail&theme=radical)  
+
 
 ---
 
