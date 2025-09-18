@@ -34,6 +34,5 @@ This is the place where I opensource stuff and (sometimes) break spelling 🤣
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-TWITTER)  
-[![Blog](https://img.shields.io/badge/Blog-FeenixDV-red?style=for-the-badge)](https://feenixdv.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bibhutimail)   
+[![Blog](https://img.shields.io/badge/Blog-FeenixDV-red?style=for-the-badge)](https://ai.feenixdv.com)  
