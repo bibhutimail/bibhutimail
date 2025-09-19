@@ -1,8 +1,8 @@
 # Hi there, I'm Bibhuti Narayan 👋  
 
-This is the place where I opensource stuff and (sometimes) break spelling 🤣  
+This is the place where I open-source stuff and (sometimes) break spelling 🤣  
 
-🐳 Docker Captain & Traefik Ambassador 🏆  
+🐳 DevOps Captain 
 ━━━━━━━━━━━━━━━━━━━━━━  
 📍 India | 🔭 Open Source DevOps Automation Tools  
 ━━━━━━━━━━━━━━━━━━━━━━  
