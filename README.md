@@ -2,8 +2,6 @@
 
 This is the place where I open-source stuff and (sometimes) break spelling 🤣  
 
-🐳 DevOps Captain 
-━━━━━━━━━━━━━━━━━━━━━━  
 📍 India | 🔭 Open Source DevOps Automation Tools  
 ━━━━━━━━━━━━━━━━━━━━━━  
 🌱 Currently into Marketing Automation 📖  
