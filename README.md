@@ -8,7 +8,7 @@ This is the place where I open-source stuff and (sometimes) break spelling 🤣
 ━━━━━━━━━━━━━━━━━━━━━━  
 💬 Topics: DevOps • Cloud • Containers • Kubernetes • Automation ☁️  
 ━━━━━━━━━━━━━━━━━━━━━━  
-📫 bibhutimail@gmail.com | [ai.feenixdv.com](https://ai.feenixdv.com)  
+📫 bibhutimail@gmail.com | [academy.feenixdv.com](https://academy.feenixdv.com)  
 ━━━━━━━━━━━━━━━━━━━━━━  
 ⚡ I ❤️ badminton & 🚴 cycling  
 
