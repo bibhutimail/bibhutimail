@@ -50,6 +50,26 @@ This is the place where I open-source stuff and (sometimes) break spelling 🤣
 
 ---
 
+## 🌐 Content & Learning
+
+<p align="center">
+  <a href="https://www.youtube.com/@fdxacademys">
+    <img src="https://img.shields.io/badge/YouTube-FDX%20Academy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="FDX Academy YouTube Channel" />
+  </a>
+  <a href="https://academy.feenixdv.com">
+    <img src="https://img.shields.io/badge/FDX%20Academy-Learn%20Tech-2F80ED?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="FDX Academy Website" />
+  </a>
+</p>
+
+Sharing practical knowledge through tutorials, hands-on labs, and learning resources focused on:
+
+- 🤖 **AI & LLM Engineering** — Prompt engineering, fine-tuning, model training, and knowledge distillation
+- ☁️ **Cloud & DevOps** — AWS, Azure, Kubernetes, Terraform, and GitOps
+- 🚀 **Hands-on Learning** — Practical projects, demonstrations, and technical walkthroughs
+
+📺 **YouTube:** [FDX Academy](https://www.youtube.com/@fdxacademys)  
+🎓 **Learning Platform:** [academy.feenixdv.com](https://academy.feenixdv.com)
+
 ## 📊 GitHub Stats
 
 ![Bibhuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibhutimail&show_icons=true&theme=radical)
